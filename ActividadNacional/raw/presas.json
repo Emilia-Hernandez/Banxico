@@ -1,0 +1,3226 @@
+[{
+        "id": 1,
+        "rha": "Península de Baja California",
+        "anio": 1995,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 109.4
+    },
+    {
+        "id": 2,
+        "rha": "Península de Baja California",
+        "anio": 1996,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 45.0
+    },
+    {
+        "id": 3,
+        "rha": "Península de Baja California",
+        "anio": 1997,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 28.8
+    },
+    {
+        "id": 4,
+        "rha": "Península de Baja California",
+        "anio": 1998,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 111.7
+    },
+    {
+        "id": 5,
+        "rha": "Península de Baja California",
+        "anio": 1999,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 39.3
+    },
+    {
+        "id": 6,
+        "rha": "Península de Baja California",
+        "anio": 2000,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 40.6
+    },
+    {
+        "id": 7,
+        "rha": "Península de Baja California",
+        "anio": 2001,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 46.2
+    },
+    {
+        "id": 8,
+        "rha": "Península de Baja California",
+        "anio": 2002,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 46.8
+    },
+    {
+        "id": 9,
+        "rha": "Península de Baja California",
+        "anio": 2003,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 40.0
+    },
+    {
+        "id": 10,
+        "rha": "Península de Baja California",
+        "anio": 2004,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 48.7
+    },
+    {
+        "id": 11,
+        "rha": "Península de Baja California",
+        "anio": 2005,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 76.6
+    },
+    {
+        "id": 12,
+        "rha": "Península de Baja California",
+        "anio": 2006,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 57.5
+    },
+    {
+        "id": 13,
+        "rha": "Península de Baja California",
+        "anio": 2007,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 44.8
+    },
+    {
+        "id": 14,
+        "rha": "Península de Baja California",
+        "anio": 2008,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 45.6
+    },
+    {
+        "id": 15,
+        "rha": "Península de Baja California",
+        "anio": 2009,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 38.4
+    },
+    {
+        "id": 16,
+        "rha": "Península de Baja California",
+        "anio": 2010,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 46.1
+    },
+    {
+        "id": 17,
+        "rha": "Península de Baja California",
+        "anio": 2011,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 38.6
+    },
+    {
+        "id": 18,
+        "rha": "Península de Baja California",
+        "anio": 2012,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 36.2
+    },
+    {
+        "id": 19,
+        "rha": "Península de Baja California",
+        "anio": 2013,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 24.3
+    },
+    {
+        "id": 20,
+        "rha": "Península de Baja California",
+        "anio": 2014,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 21.5
+    },
+    {
+        "id": 21,
+        "rha": "Península de Baja California",
+        "anio": 2015,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 23.3
+    },
+    {
+        "id": 22,
+        "rha": "Península de Baja California",
+        "anio": 2016,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 21.7
+    },
+    {
+        "id": 23,
+        "rha": "Península de Baja California",
+        "anio": 2017,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 37.1
+    },
+    {
+        "id": 24,
+        "rha": "Península de Baja California",
+        "anio": 2018,
+        "numero": 3.0,
+        "capnamo": 120.5,
+        "almacenamiento": 36.6
+    },
+    {
+        "id": 25,
+        "rha": "Península de Baja California",
+        "anio": 2019,
+        "numero": 4.0,
+        "capnamo": 125.5,
+        "almacenamiento": 38.4
+    },
+    {
+        "id": 26,
+        "rha": "Península de Baja California",
+        "anio": 2020,
+        "numero": 4.0,
+        "capnamo": 125.5,
+        "almacenamiento": 38.2
+    },
+    {
+        "id": 27,
+        "rha": "Península de Baja California",
+        "anio": 2021,
+        "numero": 4.0,
+        "capnamo": 125.5,
+        "almacenamiento": 35.3
+    },
+    {
+        "id": 28,
+        "rha": "Península de Baja California",
+        "anio": 2022,
+        "numero": 4.0,
+        "capnamo": 125.5,
+        "almacenamiento": 29.8
+    },
+    {
+        "id": 29,
+        "rha": "Península de Baja California",
+        "anio": 2023,
+        "numero": 4.0,
+        "capnamo": 125.5,
+        "almacenamiento": 53.0
+    },
+    {
+        "id": 30,
+        "rha": "Península de Baja California",
+        "anio": 2024,
+        "numero": 4.0,
+        "capnamo": 125.5,
+        "almacenamiento": 69.8
+    },
+    {
+        "id": 1,
+        "rha": "Noroeste",
+        "anio": 1991,
+        "numero": 8.0,
+        "capnamo": 8116.1,
+        "almacenamiento": 8316.5
+    },
+    {
+        "id": 2,
+        "rha": "Noroeste",
+        "anio": 1992,
+        "numero": 7.0,
+        "capnamo": 8099.9,
+        "almacenamiento": 6507.3
+    },
+    {
+        "id": 3,
+        "rha": "Noroeste",
+        "anio": 1993,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 7525.1
+    },
+    {
+        "id": 4,
+        "rha": "Noroeste",
+        "anio": 1994,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 6695.2
+    },
+    {
+        "id": 5,
+        "rha": "Noroeste",
+        "anio": 1995,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 5267.3
+    },
+    {
+        "id": 6,
+        "rha": "Noroeste",
+        "anio": 1996,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 4369.0
+    },
+    {
+        "id": 7,
+        "rha": "Noroeste",
+        "anio": 1997,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 3536.5
+    },
+    {
+        "id": 8,
+        "rha": "Noroeste",
+        "anio": 1998,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 2604.3
+    },
+    {
+        "id": 9,
+        "rha": "Noroeste",
+        "anio": 1999,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 2844.9
+    },
+    {
+        "id": 10,
+        "rha": "Noroeste",
+        "anio": 2000,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 3231.4
+    },
+    {
+        "id": 11,
+        "rha": "Noroeste",
+        "anio": 2001,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 2943.9
+    },
+    {
+        "id": 12,
+        "rha": "Noroeste",
+        "anio": 2002,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 1607.9
+    },
+    {
+        "id": 13,
+        "rha": "Noroeste",
+        "anio": 2003,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 1248.0
+    },
+    {
+        "id": 14,
+        "rha": "Noroeste",
+        "anio": 2004,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 2743.0
+    },
+    {
+        "id": 15,
+        "rha": "Noroeste",
+        "anio": 2005,
+        "numero": 9.0,
+        "capnamo": 8237.3,
+        "almacenamiento": 4468.4
+    },
+    {
+        "id": 16,
+        "rha": "Noroeste",
+        "anio": 2006,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 4762.0
+    },
+    {
+        "id": 17,
+        "rha": "Noroeste",
+        "anio": 2007,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 5946.5
+    },
+    {
+        "id": 18,
+        "rha": "Noroeste",
+        "anio": 2008,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 6940.3
+    },
+    {
+        "id": 19,
+        "rha": "Noroeste",
+        "anio": 2009,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 6761.0
+    },
+    {
+        "id": 20,
+        "rha": "Noroeste",
+        "anio": 2010,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 6687.8
+    },
+    {
+        "id": 21,
+        "rha": "Noroeste",
+        "anio": 2011,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 5521.5
+    },
+    {
+        "id": 22,
+        "rha": "Noroeste",
+        "anio": 2012,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 5124.2
+    },
+    {
+        "id": 23,
+        "rha": "Noroeste",
+        "anio": 2013,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 6182.5
+    },
+    {
+        "id": 24,
+        "rha": "Noroeste",
+        "anio": 2014,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 6716.7
+    },
+    {
+        "id": 25,
+        "rha": "Noroeste",
+        "anio": 2015,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 6853.6
+    },
+    {
+        "id": 26,
+        "rha": "Noroeste",
+        "anio": 2016,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 5959.4
+    },
+    {
+        "id": 27,
+        "rha": "Noroeste",
+        "anio": 2017,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 4975.9
+    },
+    {
+        "id": 28,
+        "rha": "Noroeste",
+        "anio": 2018,
+        "numero": 9.0,
+        "capnamo": 8086.0,
+        "almacenamiento": 4927.8
+    },
+    {
+        "id": 29,
+        "rha": "Noroeste",
+        "anio": 2019,
+        "numero": 10.0,
+        "capnamo": 8123.3,
+        "almacenamiento": 5439.0
+    },
+    {
+        "id": 30,
+        "rha": "Noroeste",
+        "anio": 2020,
+        "numero": 10.0,
+        "capnamo": 7915.2,
+        "almacenamiento": 3911.5
+    },
+    {
+        "id": 31,
+        "rha": "Noroeste",
+        "anio": 2021,
+        "numero": 10.0,
+        "capnamo": 8114.5,
+        "almacenamiento": 3125.8
+    },
+    {
+        "id": 32,
+        "rha": "Noroeste",
+        "anio": 2022,
+        "numero": 10.0,
+        "capnamo": 8274.9,
+        "almacenamiento": 5236.9
+    },
+    {
+        "id": 33,
+        "rha": "Noroeste",
+        "anio": 2023,
+        "numero": 10.0,
+        "capnamo": 8274.9,
+        "almacenamiento": 2314.0
+    },
+    {
+        "id": 34,
+        "rha": "Noroeste",
+        "anio": 2024,
+        "numero": 10.0,
+        "capnamo": 8274.9,
+        "almacenamiento": 1385.3
+    },
+     {
+        "id": 1,
+        "rha": "Pacífico Norte",
+        "anio": 1991,
+        "numero": 11.0,
+        "capnamo": 12571.1,
+        "almacenamiento": 12835.8
+    },
+    {
+        "id": 2,
+        "rha": "Pacífico Norte",
+        "anio": 1992,
+        "numero": 11.0,
+        "capnamo": 12571.1,
+        "almacenamiento": 8537.5
+    },
+    {
+        "id": 3,
+        "rha": "Pacífico Norte",
+        "anio": 1993,
+        "numero": 10.0,
+        "capnamo": 10952.3,
+        "almacenamiento": 8223.2
+    },
+    {
+        "id": 4,
+        "rha": "Pacífico Norte",
+        "anio": 1994,
+        "numero": 12.0,
+        "capnamo": 12599.0,
+        "almacenamiento": 7406.7
+    },
+    {
+        "id": 5,
+        "rha": "Pacífico Norte",
+        "anio": 1995,
+        "numero": 16.0,
+        "capnamo": 16195.4,
+        "almacenamiento": 4843.4
+    },
+    {
+        "id": 6,
+        "rha": "Pacífico Norte",
+        "anio": 1996,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 8946.5
+    },
+    {
+        "id": 7,
+        "rha": "Pacífico Norte",
+        "anio": 1997,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 7802.5
+    },
+    {
+        "id": 8,
+        "rha": "Pacífico Norte",
+        "anio": 1998,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 4408.5
+    },
+    {
+        "id": 9,
+        "rha": "Pacífico Norte",
+        "anio": 1999,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 5684.2
+    },
+    {
+        "id": 10,
+        "rha": "Pacífico Norte",
+        "anio": 2000,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 8360.9
+    },
+    {
+        "id": 11,
+        "rha": "Pacífico Norte",
+        "anio": 2001,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 6725.1
+    },
+    {
+        "id": 12,
+        "rha": "Pacífico Norte",
+        "anio": 2002,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 3905.6
+    },
+    {
+        "id": 13,
+        "rha": "Pacífico Norte",
+        "anio": 2003,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 5038.8
+    },
+    {
+        "id": 14,
+        "rha": "Pacífico Norte",
+        "anio": 2004,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 13100.2
+    },
+    {
+        "id": 15,
+        "rha": "Pacífico Norte",
+        "anio": 2005,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 11292.2
+    },
+    {
+        "id": 16,
+        "rha": "Pacífico Norte",
+        "anio": 2006,
+        "numero": 17.0,
+        "capnamo": 16210.8,
+        "almacenamiento": 11678.8
+    },
+    {
+        "id": 17,
+        "rha": "Pacífico Norte",
+        "anio": 2007,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 12743.8
+    },
+    {
+        "id": 18,
+        "rha": "Pacífico Norte",
+        "anio": 2008,
+        "numero": 17.0,
+        "capnamo": 16210.8,
+        "almacenamiento": 13757.1
+    },
+    {
+        "id": 19,
+        "rha": "Pacífico Norte",
+        "anio": 2009,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 11751.4
+    },
+    {
+        "id": 20,
+        "rha": "Pacífico Norte",
+        "anio": 2010,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 11519.9
+    },
+    {
+        "id": 21,
+        "rha": "Pacífico Norte",
+        "anio": 2011,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 4123.5
+    },
+    {
+        "id": 22,
+        "rha": "Pacífico Norte",
+        "anio": 2012,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 5184.5
+    },
+    {
+        "id": 23,
+        "rha": "Pacífico Norte",
+        "anio": 2013,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 8911.8
+    },
+    {
+        "id": 24,
+        "rha": "Pacífico Norte",
+        "anio": 2014,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 11151.1
+    },
+    {
+        "id": 25,
+        "rha": "Pacífico Norte",
+        "anio": 2015,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 12593.1
+    },
+    {
+        "id": 26,
+        "rha": "Pacífico Norte",
+        "anio": 2016,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 13175.1
+    },
+    {
+        "id": 27,
+        "rha": "Pacífico Norte",
+        "anio": 2017,
+        "numero": 17.0,
+        "capnamo": 15915.9,
+        "almacenamiento": 9540.3
+    },
+    {
+        "id": 28,
+        "rha": "Pacífico Norte",
+        "anio": 2018,
+        "numero": 17.0,
+        "capnamo": 16210.8,
+        "almacenamiento": 10873.2
+    },
+    {
+        "id": 29,
+        "rha": "Pacífico Norte",
+        "anio": 2019,
+        "numero": 17.0,
+        "capnamo": 16211.2,
+        "almacenamiento": 11628.1
+    },
+    {
+        "id": 30,
+        "rha": "Pacífico Norte",
+        "anio": 2020,
+        "numero": 17.0,
+        "capnamo": 15712.3,
+        "almacenamiento": 5754.5
+    },
+    {
+        "id": 31,
+        "rha": "Pacífico Norte",
+        "anio": 2021,
+        "numero": 17.0,
+        "capnamo": 16206.2,
+        "almacenamiento": 7032.9
+    },
+    {
+        "id": 32,
+        "rha": "Pacífico Norte",
+        "anio": 2022,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 9936.5
+    },
+    {
+        "id": 33,
+        "rha": "Pacífico Norte",
+        "anio": 2023,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 4967.9
+    },
+    {
+        "id": 34,
+        "rha": "Pacífico Norte",
+        "anio": 2024,
+        "numero": 17.0,
+        "capnamo": 16210.5,
+        "almacenamiento": 3116.4
+    },
+     {
+        "id": 1,
+        "rha": "Balsas",
+        "anio": 1991,
+        "numero": 10.0,
+        "capnamo": 11894.4,
+        "almacenamiento": 10608.3
+    },
+    {
+        "id": 2,
+        "rha": "Balsas",
+        "anio": 1992,
+        "numero": 14.0,
+        "capnamo": 11987.8,
+        "almacenamiento": 11585.9
+    },
+    {
+        "id": 3,
+        "rha": "Balsas",
+        "anio": 1993,
+        "numero": 9.0,
+        "capnamo": 10913.2,
+        "almacenamiento": 10437.6
+    },
+    {
+        "id": 4,
+        "rha": "Balsas",
+        "anio": 1994,
+        "numero": 15.0,
+        "capnamo": 13045.1,
+        "almacenamiento": 13369.8
+    },
+    {
+        "id": 5,
+        "rha": "Balsas",
+        "anio": 1995,
+        "numero": 16.0,
+        "capnamo": 11611.3,
+        "almacenamiento": 11235.5
+    },
+    {
+        "id": 6,
+        "rha": "Balsas",
+        "anio": 1996,
+        "numero": 21.0,
+        "capnamo": 13261.1,
+        "almacenamiento": 12453.3
+    },
+    {
+        "id": 7,
+        "rha": "Balsas",
+        "anio": 1997,
+        "numero": 5.0,
+        "capnamo": 1521.6,
+        "almacenamiento": 1671.3
+    },
+    {
+        "id": 8,
+        "rha": "Balsas",
+        "anio": 1998,
+        "numero": 6.0,
+        "capnamo": 512.0,
+        "almacenamiento": 404.1
+    },
+    {
+        "id": 9,
+        "rha": "Balsas",
+        "anio": 1999,
+        "numero": 7.0,
+        "capnamo": 906.4,
+        "almacenamiento": 755.9
+    },
+    {
+        "id": 10,
+        "rha": "Balsas",
+        "anio": 2000,
+        "numero": 19.0,
+        "capnamo": 3686.9,
+        "almacenamiento": 3748.7
+    },
+    {
+        "id": 11,
+        "rha": "Balsas",
+        "anio": 2001,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 10925.2
+    },
+    {
+        "id": 12,
+        "rha": "Balsas",
+        "anio": 2002,
+        "numero": 22.0,
+        "capnamo": 13661.2,
+        "almacenamiento": 11340.1
+    },
+    {
+        "id": 13,
+        "rha": "Balsas",
+        "anio": 2003,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 13832.6
+    },
+    {
+        "id": 14,
+        "rha": "Balsas",
+        "anio": 2004,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 13224.4
+    },
+    {
+        "id": 15,
+        "rha": "Balsas",
+        "anio": 2005,
+        "numero": 19.0,
+        "capnamo": 12947.0,
+        "almacenamiento": 11044.9
+    },
+    {
+        "id": 16,
+        "rha": "Balsas",
+        "anio": 2006,
+        "numero": 22.0,
+        "capnamo": 12617.0,
+        "almacenamiento": 13427.1
+    },
+    {
+        "id": 17,
+        "rha": "Balsas",
+        "anio": 2007,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 11529.4
+    },
+    {
+        "id": 18,
+        "rha": "Balsas",
+        "anio": 2008,
+        "numero": 22.0,
+        "capnamo": 12617.0,
+        "almacenamiento": 12656.0
+    },
+    {
+        "id": 19,
+        "rha": "Balsas",
+        "anio": 2009,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 11585.8
+    },
+    {
+        "id": 20,
+        "rha": "Balsas",
+        "anio": 2010,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 12060.1
+    },
+    {
+        "id": 21,
+        "rha": "Balsas",
+        "anio": 2011,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 12021.5
+    },
+    {
+        "id": 22,
+        "rha": "Balsas",
+        "anio": 2012,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 10365.2
+    },
+    {
+        "id": 23,
+        "rha": "Balsas",
+        "anio": 2013,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 12717.6
+    },
+    {
+        "id": 24,
+        "rha": "Balsas",
+        "anio": 2014,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 13346.2
+    },
+    {
+        "id": 25,
+        "rha": "Balsas",
+        "anio": 2015,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 11672.8
+    },
+    {
+        "id": 26,
+        "rha": "Balsas",
+        "anio": 2016,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 11701.5
+    },
+    {
+        "id": 27,
+        "rha": "Balsas",
+        "anio": 2017,
+        "numero": 22.0,
+        "capnamo": 11614.1,
+        "almacenamiento": 10263.7
+    },
+    {
+        "id": 28,
+        "rha": "Balsas",
+        "anio": 2018,
+        "numero": 22.0,
+        "capnamo": 12617.0,
+        "almacenamiento": 12142.4
+    },
+    {
+        "id": 29,
+        "rha": "Balsas",
+        "anio": 2019,
+        "numero": 23.0,
+        "capnamo": 12671.4,
+        "almacenamiento": 12078.8
+    },
+    {
+        "id": 30,
+        "rha": "Balsas",
+        "anio": 2020,
+        "numero": 23.0,
+        "capnamo": 9710.5,
+        "almacenamiento": 6541.0
+    },
+    {
+        "id": 31,
+        "rha": "Balsas",
+        "anio": 2021,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 12263.2
+    },
+    {
+        "id": 32,
+        "rha": "Balsas",
+        "anio": 2022,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 9197.1
+    },
+    {
+        "id": 33,
+        "rha": "Balsas",
+        "anio": 2023,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 9664.3
+    },
+    {
+        "id": 34,
+        "rha": "Balsas",
+        "anio": 2024,
+        "numero": 23.0,
+        "capnamo": 13708.4,
+        "almacenamiento": 11876.2
+    },
+    {
+        "id": 1,
+        "rha": "Pacífico Sur",
+        "anio": 1991,
+        "numero": 1.0,
+        "capnamo": 720.3,
+        "almacenamiento": 442.4
+    },
+    {
+        "id": 2,
+        "rha": "Pacífico Sur",
+        "anio": 1992,
+        "numero": 1.0,
+        "capnamo": 720.3,
+        "almacenamiento": 548.3
+    },
+    {
+        "id": 3,
+        "rha": "Pacífico Sur",
+        "anio": 1993,
+        "numero": 1.0,
+        "capnamo": 720.3,
+        "almacenamiento": 698.6
+    },
+    {
+        "id": 4,
+        "rha": "Pacífico Sur",
+        "anio": 1994,
+        "numero": 1.0,
+        "capnamo": 720.3,
+        "almacenamiento": 530.5
+    },
+    {
+        "id": 5,
+        "rha": "Pacífico Sur",
+        "anio": 1995,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1043.3
+    },
+    {
+        "id": 6,
+        "rha": "Pacífico Sur",
+        "anio": 1996,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1074.1
+    },
+    {
+        "id": 7,
+        "rha": "Pacífico Sur",
+        "anio": 1998,
+        "numero": 1.0,
+        "capnamo": 720.3,
+        "almacenamiento": 952.5
+    },
+    {
+        "id": 8,
+        "rha": "Pacífico Sur",
+        "anio": 1999,
+        "numero": 1.0,
+        "capnamo": 720.3,
+        "almacenamiento": 936.0
+    },
+    {
+        "id": 9,
+        "rha": "Pacífico Sur",
+        "anio": 2000,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1029.9
+    },
+    {
+        "id": 10,
+        "rha": "Pacífico Sur",
+        "anio": 2001,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1021.6
+    },
+    {
+        "id": 11,
+        "rha": "Pacífico Sur",
+        "anio": 2002,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1025.4
+    },
+    {
+        "id": 12,
+        "rha": "Pacífico Sur",
+        "anio": 2003,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1038.6
+    },
+    {
+        "id": 13,
+        "rha": "Pacífico Sur",
+        "anio": 2004,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 893.5
+    },
+    {
+        "id": 14,
+        "rha": "Pacífico Sur",
+        "anio": 2005,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1007.6
+    },
+    {
+        "id": 15,
+        "rha": "Pacífico Sur",
+        "anio": 2006,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 812.5
+    },
+    {
+        "id": 16,
+        "rha": "Pacífico Sur",
+        "anio": 2007,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 607.8
+    },
+    {
+        "id": 17,
+        "rha": "Pacífico Sur",
+        "anio": 2008,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1087.0
+    },
+    {
+        "id": 18,
+        "rha": "Pacífico Sur",
+        "anio": 2009,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 957.8
+    },
+    {
+        "id": 19,
+        "rha": "Pacífico Sur",
+        "anio": 2010,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1093.1
+    },
+    {
+        "id": 20,
+        "rha": "Pacífico Sur",
+        "anio": 2011,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1059.2
+    },
+    {
+        "id": 21,
+        "rha": "Pacífico Sur",
+        "anio": 2012,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1039.7
+    },
+    {
+        "id": 22,
+        "rha": "Pacífico Sur",
+        "anio": 2013,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 1080.8
+    },
+    {
+        "id": 23,
+        "rha": "Pacífico Sur",
+        "anio": 2014,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 835.5
+    },
+    {
+        "id": 24,
+        "rha": "Pacífico Sur",
+        "anio": 2015,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 532.9
+    },
+    {
+        "id": 25,
+        "rha": "Pacífico Sur",
+        "anio": 2016,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 329.6
+    },
+    {
+        "id": 26,
+        "rha": "Pacífico Sur",
+        "anio": 2017,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 837.0
+    },
+    {
+        "id": 27,
+        "rha": "Pacífico Sur",
+        "anio": 2018,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 810.1
+    },
+    {
+        "id": 28,
+        "rha": "Pacífico Sur",
+        "anio": 2019,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 724.2
+    },
+    {
+        "id": 29,
+        "rha": "Pacífico Sur",
+        "anio": 2020,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 724.6
+    },
+    {
+        "id": 30,
+        "rha": "Pacífico Sur",
+        "anio": 2021,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 791.3
+    },
+    {
+        "id": 31,
+        "rha": "Pacífico Sur",
+        "anio": 2022,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 835.7
+    },
+    {
+        "id": 32,
+        "rha": "Pacífico Sur",
+        "anio": 2023,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 533.2
+    },
+    {
+        "id": 33,
+        "rha": "Pacífico Sur",
+        "anio": 2024,
+        "numero": 2.0,
+        "capnamo": 847.0,
+        "almacenamiento": 814.9
+    },
+     {
+        "id": 1,
+        "rha": "Río Bravo",
+        "anio": 1991,
+        "numero": 12.0,
+        "capnamo": 5780.9,
+        "almacenamiento": 5898.0
+    },
+    {
+        "id": 2,
+        "rha": "Río Bravo",
+        "anio": 1992,
+        "numero": 14.0,
+        "capnamo": 5989.2,
+        "almacenamiento": 4459.4
+    },
+    {
+        "id": 3,
+        "rha": "Río Bravo",
+        "anio": 1993,
+        "numero": 15.0,
+        "capnamo": 7112.3,
+        "almacenamiento": 4112.9
+    },
+    {
+        "id": 4,
+        "rha": "Río Bravo",
+        "anio": 1994,
+        "numero": 15.0,
+        "capnamo": 6257.3,
+        "almacenamiento": 1355.1
+    },
+    {
+        "id": 5,
+        "rha": "Río Bravo",
+        "anio": 1995,
+        "numero": 19.0,
+        "capnamo": 8578.6,
+        "almacenamiento": 2543.1
+    },
+    {
+        "id": 6,
+        "rha": "Río Bravo",
+        "anio": 1996,
+        "numero": 20.0,
+        "capnamo": 10348.2,
+        "almacenamiento": 5134.9
+    },
+    {
+        "id": 7,
+        "rha": "Río Bravo",
+        "anio": 1997,
+        "numero": 18.0,
+        "capnamo": 9206.1,
+        "almacenamiento": 4133.6
+    },
+    {
+        "id": 8,
+        "rha": "Río Bravo",
+        "anio": 1998,
+        "numero": 18.0,
+        "capnamo": 9206.1,
+        "almacenamiento": 3039.6
+    },
+    {
+        "id": 9,
+        "rha": "Río Bravo",
+        "anio": 1999,
+        "numero": 19.0,
+        "capnamo": 10329.2,
+        "almacenamiento": 4137.5
+    },
+    {
+        "id": 10,
+        "rha": "Río Bravo",
+        "anio": 2000,
+        "numero": 20.0,
+        "capnamo": 10348.2,
+        "almacenamiento": 2736.2
+    },
+    {
+        "id": 11,
+        "rha": "Río Bravo",
+        "anio": 2001,
+        "numero": 18.0,
+        "capnamo": 7226.9,
+        "almacenamiento": 2606.9
+    },
+    {
+        "id": 12,
+        "rha": "Río Bravo",
+        "anio": 2002,
+        "numero": 19.0,
+        "capnamo": 7310.7,
+        "almacenamiento": 3691.6
+    },
+    {
+        "id": 13,
+        "rha": "Río Bravo",
+        "anio": 2003,
+        "numero": 19.0,
+        "capnamo": 7310.7,
+        "almacenamiento": 5122.2
+    },
+    {
+        "id": 14,
+        "rha": "Río Bravo",
+        "anio": 2004,
+        "numero": 21.0,
+        "capnamo": 10432.0,
+        "almacenamiento": 7882.8
+    },
+    {
+        "id": 15,
+        "rha": "Río Bravo",
+        "anio": 2005,
+        "numero": 21.0,
+        "capnamo": 10432.0,
+        "almacenamiento": 7162.3
+    },
+    {
+        "id": 16,
+        "rha": "Río Bravo",
+        "anio": 2006,
+        "numero": 22.0,
+        "capnamo": 10535.4,
+        "almacenamiento": 7588.0
+    },
+    {
+        "id": 17,
+        "rha": "Río Bravo",
+        "anio": 2007,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 11768.4
+    },
+    {
+        "id": 18,
+        "rha": "Río Bravo",
+        "anio": 2008,
+        "numero": 22.0,
+        "capnamo": 10535.4,
+        "almacenamiento": 11596.1
+    },
+    {
+        "id": 19,
+        "rha": "Río Bravo",
+        "anio": 2009,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 12766.7
+    },
+    {
+        "id": 20,
+        "rha": "Río Bravo",
+        "anio": 2010,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 15423.5
+    },
+    {
+        "id": 21,
+        "rha": "Río Bravo",
+        "anio": 2011,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 9924.2
+    },
+    {
+        "id": 22,
+        "rha": "Río Bravo",
+        "anio": 2012,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 5838.1
+    },
+    {
+        "id": 23,
+        "rha": "Río Bravo",
+        "anio": 2013,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 8774.5
+    },
+    {
+        "id": 24,
+        "rha": "Río Bravo",
+        "anio": 2014,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 10333.6
+    },
+    {
+        "id": 25,
+        "rha": "Río Bravo",
+        "anio": 2015,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 9849.3
+    },
+    {
+        "id": 26,
+        "rha": "Río Bravo",
+        "anio": 2016,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 10759.8
+    },
+    {
+        "id": 27,
+        "rha": "Río Bravo",
+        "anio": 2017,
+        "numero": 22.0,
+        "capnamo": 14714.7,
+        "almacenamiento": 10799.7
+    },
+    {
+        "id": 28,
+        "rha": "Río Bravo",
+        "anio": 2018,
+        "numero": 22.0,
+        "capnamo": 10535.4,
+        "almacenamiento": 7192.2
+    },
+    {
+        "id": 29,
+        "rha": "Río Bravo",
+        "anio": 2019,
+        "numero": 22.0,
+        "capnamo": 10517.6,
+        "almacenamiento": 5688.5
+    },
+    {
+        "id": 30,
+        "rha": "Río Bravo",
+        "anio": 2020,
+        "numero": 22.0,
+        "capnamo": 10517.6,
+        "almacenamiento": 3595.8
+    },
+    {
+        "id": 31,
+        "rha": "Río Bravo",
+        "anio": 2021,
+        "numero": 22.0,
+        "capnamo": 10462.7,
+        "almacenamiento": 3585.0
+    },
+    {
+        "id": 32,
+        "rha": "Río Bravo",
+        "anio": 2022,
+        "numero": 22.0,
+        "capnamo": 10440.7,
+        "almacenamiento": 6128.6
+    },
+    {
+        "id": 33,
+        "rha": "Río Bravo",
+        "anio": 2023,
+        "numero": 22.0,
+        "capnamo": 10440.7,
+        "almacenamiento": 3723.1
+    },
+    {
+        "id": 34,
+        "rha": "Río Bravo",
+        "anio": 2024,
+        "numero": 22.0,
+        "capnamo": 10440.7,
+        "almacenamiento": 3987.8
+    },
+     {
+        "id": 1,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1991,
+        "numero": 4.0,
+        "capnamo": 3373.0,
+        "almacenamiento": 3794.2
+    },
+    {
+        "id": 2,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1992,
+        "numero": 4.0,
+        "capnamo": 3299.5,
+        "almacenamiento": 2460.7
+    },
+    {
+        "id": 3,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1993,
+        "numero": 4.0,
+        "capnamo": 3299.5,
+        "almacenamiento": 2813.3
+    },
+    {
+        "id": 4,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1994,
+        "numero": 4.0,
+        "capnamo": 3299.5,
+        "almacenamiento": 1508.7
+    },
+    {
+        "id": 5,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1995,
+        "numero": 7.0,
+        "capnamo": 3439.2,
+        "almacenamiento": 845.0
+    },
+    {
+        "id": 6,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1996,
+        "numero": 7.0,
+        "capnamo": 3439.2,
+        "almacenamiento": 2117.3
+    },
+    {
+        "id": 7,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1997,
+        "numero": 5.0,
+        "capnamo": 3322.6,
+        "almacenamiento": 1301.4
+    },
+    {
+        "id": 8,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1998,
+        "numero": 6.0,
+        "capnamo": 3343.5,
+        "almacenamiento": 784.9
+    },
+    {
+        "id": 9,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 1999,
+        "numero": 6.0,
+        "capnamo": 3343.5,
+        "almacenamiento": 1161.7
+    },
+    {
+        "id": 10,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2000,
+        "numero": 7.0,
+        "capnamo": 3439.2,
+        "almacenamiento": 1035.2
+    },
+    {
+        "id": 11,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2001,
+        "numero": 7.0,
+        "capnamo": 3439.2,
+        "almacenamiento": 675.5
+    },
+    {
+        "id": 12,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2002,
+        "numero": 10.0,
+        "capnamo": 3481.9,
+        "almacenamiento": 1056.4
+    },
+    {
+        "id": 13,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2003,
+        "numero": 9.0,
+        "capnamo": 3475.2,
+        "almacenamiento": 1767.6
+    },
+    {
+        "id": 14,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2004,
+        "numero": 13.0,
+        "capnamo": 3495.9,
+        "almacenamiento": 2228.6
+    },
+    {
+        "id": 15,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2005,
+        "numero": 10.0,
+        "capnamo": 3484.7,
+        "almacenamiento": 1745.1
+    },
+    {
+        "id": 16,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2006,
+        "numero": 13.0,
+        "capnamo": 3495.7,
+        "almacenamiento": 2891.9
+    },
+    {
+        "id": 17,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2007,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 2394.5
+    },
+    {
+        "id": 18,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2008,
+        "numero": 13.0,
+        "capnamo": 3495.7,
+        "almacenamiento": 3704.7
+    },
+    {
+        "id": 19,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2009,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 3389.1
+    },
+    {
+        "id": 20,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2010,
+        "numero": 12.0,
+        "capnamo": 3464.9,
+        "almacenamiento": 3290.1
+    },
+    {
+        "id": 21,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2011,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 1965.6
+    },
+    {
+        "id": 22,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2012,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 1518.0
+    },
+    {
+        "id": 23,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2013,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 2195.6
+    },
+    {
+        "id": 24,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2014,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 2102.5
+    },
+    {
+        "id": 25,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2015,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 2123.3
+    },
+    {
+        "id": 26,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2016,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 3381.7
+    },
+    {
+        "id": 27,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2017,
+        "numero": 13.0,
+        "capnamo": 3495.6,
+        "almacenamiento": 3310.9
+    },
+    {
+        "id": 28,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2018,
+        "numero": 13.0,
+        "capnamo": 3495.7,
+        "almacenamiento": 2931.7
+    },
+    {
+        "id": 29,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2019,
+        "numero": 15.0,
+        "capnamo": 3516.2,
+        "almacenamiento": 2373.0
+    },
+    {
+        "id": 30,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2020,
+        "numero": 15.0,
+        "capnamo": 3516.1,
+        "almacenamiento": 2082.1
+    },
+    {
+        "id": 31,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2021,
+        "numero": 15.0,
+        "capnamo": 3510.1,
+        "almacenamiento": 2121.2
+    },
+    {
+        "id": 32,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2022,
+        "numero": 15.0,
+        "capnamo": 3516.1,
+        "almacenamiento": 2864.0
+    },
+    {
+        "id": 33,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2023,
+        "numero": 15.0,
+        "capnamo": 3516.1,
+        "almacenamiento": 1607.4
+    },
+    {
+        "id": 34,
+        "rha": "Cuencas Centrales del Norte",
+        "anio": 2024,
+        "numero": 15.0,
+        "capnamo": 3516.1,
+        "almacenamiento": 1149.4
+    },
+    {
+        "id": 1,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1991,
+        "numero": 22.0,
+        "capnamo": 12009.4,
+        "almacenamiento": 6371.3
+    },
+    {
+        "id": 2,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1992,
+        "numero": 25.0,
+        "capnamo": 12017.3,
+        "almacenamiento": 8920.4
+    },
+    {
+        "id": 3,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1993,
+        "numero": 26.0,
+        "capnamo": 18032.4,
+        "almacenamiento": 10885.5
+    },
+    {
+        "id": 4,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1994,
+        "numero": 27.0,
+        "capnamo": 17947.2,
+        "almacenamiento": 11559.4
+    },
+    {
+        "id": 5,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1995,
+        "numero": 54.0,
+        "capnamo": 18792.4,
+        "almacenamiento": 12569.2
+    },
+    {
+        "id": 6,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1996,
+        "numero": 60.0,
+        "capnamo": 18935.8,
+        "almacenamiento": 12701.5
+    },
+    {
+        "id": 7,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1997,
+        "numero": 33.0,
+        "capnamo": 17122.3,
+        "almacenamiento": 8727.2
+    },
+    {
+        "id": 8,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1998,
+        "numero": 38.0,
+        "capnamo": 17697.1,
+        "almacenamiento": 11944.0
+    },
+    {
+        "id": 9,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 1999,
+        "numero": 39.0,
+        "capnamo": 17535.4,
+        "almacenamiento": 9819.5
+    },
+    {
+        "id": 10,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2000,
+        "numero": 52.0,
+        "capnamo": 18836.3,
+        "almacenamiento": 8509.6
+    },
+    {
+        "id": 11,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2001,
+        "numero": 62.0,
+        "capnamo": 19021.8,
+        "almacenamiento": 10000.7
+    },
+    {
+        "id": 12,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2002,
+        "numero": 65.0,
+        "capnamo": 19073.1,
+        "almacenamiento": 10826.8
+    },
+    {
+        "id": 13,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2003,
+        "numero": 67.0,
+        "capnamo": 19108.1,
+        "almacenamiento": 14271.5
+    },
+    {
+        "id": 14,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2004,
+        "numero": 67.0,
+        "capnamo": 19108.1,
+        "almacenamiento": 16166.9
+    },
+    {
+        "id": 15,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2005,
+        "numero": 67.0,
+        "capnamo": 19108.1,
+        "almacenamiento": 13547.7
+    },
+    {
+        "id": 16,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2006,
+        "numero": 65.0,
+        "capnamo": 20899.2,
+        "almacenamiento": 15640.2
+    },
+    {
+        "id": 17,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2007,
+        "numero": 65.0,
+        "capnamo": 21102.6,
+        "almacenamiento": 16464.0
+    },
+    {
+        "id": 18,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2008,
+        "numero": 65.0,
+        "capnamo": 20899.2,
+        "almacenamiento": 18140.7
+    },
+    {
+        "id": 19,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2009,
+        "numero": 65.0,
+        "capnamo": 21102.6,
+        "almacenamiento": 15954.1
+    },
+    {
+        "id": 20,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2010,
+        "numero": 65.0,
+        "capnamo": 21102.6,
+        "almacenamiento": 17597.3
+    },
+    {
+        "id": 21,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2011,
+        "numero": 65.0,
+        "capnamo": 21102.6,
+        "almacenamiento": 13821.8
+    },
+    {
+        "id": 22,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2012,
+        "numero": 66.0,
+        "capnamo": 23395.5,
+        "almacenamiento": 13836.3
+    },
+    {
+        "id": 23,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2013,
+        "numero": 66.0,
+        "capnamo": 23395.5,
+        "almacenamiento": 16968.1
+    },
+    {
+        "id": 24,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2014,
+        "numero": 66.0,
+        "capnamo": 23395.5,
+        "almacenamiento": 17023.6
+    },
+    {
+        "id": 25,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2015,
+        "numero": 66.0,
+        "capnamo": 23395.5,
+        "almacenamiento": 18467.4
+    },
+    {
+        "id": 26,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2016,
+        "numero": 66.0,
+        "capnamo": 23395.5,
+        "almacenamiento": 17455.7
+    },
+    {
+        "id": 27,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2017,
+        "numero": 66.0,
+        "capnamo": 23395.5,
+        "almacenamiento": 17622.5
+    },
+    {
+        "id": 28,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2018,
+        "numero": 66.0,
+        "capnamo": 23192.1,
+        "almacenamiento": 20730.8
+    },
+    {
+        "id": 29,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2019,
+        "numero": 73.0,
+        "capnamo": 24162.7,
+        "almacenamiento": 18237.9
+    },
+    {
+        "id": 30,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2020,
+        "numero": 73.0,
+        "capnamo": 19356.6,
+        "almacenamiento": 11751.1
+    },
+    {
+        "id": 31,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2021,
+        "numero": 73.0,
+        "capnamo": 24370.3,
+        "almacenamiento": 19862.5
+    },
+    {
+        "id": 32,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2022,
+        "numero": 73.0,
+        "capnamo": 24371.1,
+        "almacenamiento": 16495.1
+    },
+    {
+        "id": 33,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2023,
+        "numero": 73.0,
+        "capnamo": 24370.8,
+        "almacenamiento": 14323.0
+    },
+    {
+        "id": 34,
+        "rha": "Lerma-Santiago-Pacífico",
+        "anio": 2024,
+        "numero": 73.0,
+        "capnamo": 24370.8,
+        "almacenamiento": 17642.5
+    },
+
+    {
+        "id": 1,
+        "rha": "Golfo Norte",
+        "anio": 1991,
+        "numero": 6.0,
+        "capnamo": 5045.8,
+        "almacenamiento": 2267.3
+    },
+    {
+        "id": 2,
+        "rha": "Golfo Norte",
+        "anio": 1992,
+        "numero": 6.0,
+        "capnamo": 5045.8,
+        "almacenamiento": 2103.5
+    },
+    {
+        "id": 3,
+        "rha": "Golfo Norte",
+        "anio": 1993,
+        "numero": 7.0,
+        "capnamo": 5049.7,
+        "almacenamiento": 2254.7
+    },
+    {
+        "id": 4,
+        "rha": "Golfo Norte",
+        "anio": 1994,
+        "numero": 7.0,
+        "capnamo": 4866.7,
+        "almacenamiento": 1959.5
+    },
+    {
+        "id": 5,
+        "rha": "Golfo Norte",
+        "anio": 1995,
+        "numero": 13.0,
+        "capnamo": 6540.3,
+        "almacenamiento": 3697.3
+    },
+    {
+        "id": 6,
+        "rha": "Golfo Norte",
+        "anio": 1996,
+        "numero": 13.0,
+        "capnamo": 6540.3,
+        "almacenamiento": 3617.8
+    },
+    {
+        "id": 7,
+        "rha": "Golfo Norte",
+        "anio": 1997,
+        "numero": 6.0,
+        "capnamo": 5045.8,
+        "almacenamiento": 1946.3
+    },
+    {
+        "id": 8,
+        "rha": "Golfo Norte",
+        "anio": 1998,
+        "numero": 7.0,
+        "capnamo": 4866.3,
+        "almacenamiento": 1657.4
+    },
+    {
+        "id": 9,
+        "rha": "Golfo Norte",
+        "anio": 1999,
+        "numero": 8.0,
+        "capnamo": 5086.3,
+        "almacenamiento": 1886.9
+    },
+    {
+        "id": 10,
+        "rha": "Golfo Norte",
+        "anio": 2000,
+        "numero": 11.0,
+        "capnamo": 6483.1,
+        "almacenamiento": 2646.9
+    },
+    {
+        "id": 11,
+        "rha": "Golfo Norte",
+        "anio": 2001,
+        "numero": 14.0,
+        "capnamo": 7216.3,
+        "almacenamiento": 3635.9
+    },
+    {
+        "id": 12,
+        "rha": "Golfo Norte",
+        "anio": 2002,
+        "numero": 15.0,
+        "capnamo": 7240.5,
+        "almacenamiento": 3895.7
+    },
+    {
+        "id": 13,
+        "rha": "Golfo Norte",
+        "anio": 2003,
+        "numero": 14.0,
+        "capnamo": 6564.5,
+        "almacenamiento": 4705.0
+    },
+    {
+        "id": 14,
+        "rha": "Golfo Norte",
+        "anio": 2004,
+        "numero": 14.0,
+        "capnamo": 6564.5,
+        "almacenamiento": 4187.4
+    },
+    {
+        "id": 15,
+        "rha": "Golfo Norte",
+        "anio": 2005,
+        "numero": 13.0,
+        "capnamo": 6509.7,
+        "almacenamiento": 4105.3
+    },
+    {
+        "id": 16,
+        "rha": "Golfo Norte",
+        "anio": 2006,
+        "numero": 14.0,
+        "capnamo": 6568.2,
+        "almacenamiento": 3736.6
+    },
+    {
+        "id": 17,
+        "rha": "Golfo Norte",
+        "anio": 2007,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 4295.4
+    },
+    {
+        "id": 18,
+        "rha": "Golfo Norte",
+        "anio": 2008,
+        "numero": 14.0,
+        "capnamo": 6568.2,
+        "almacenamiento": 5217.3
+    },
+    {
+        "id": 19,
+        "rha": "Golfo Norte",
+        "anio": 2009,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 4555.1
+    },
+    {
+        "id": 20,
+        "rha": "Golfo Norte",
+        "anio": 2010,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 5995.2
+    },
+    {
+        "id": 21,
+        "rha": "Golfo Norte",
+        "anio": 2011,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 5695.2
+    },
+    {
+        "id": 22,
+        "rha": "Golfo Norte",
+        "anio": 2012,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 4912.1
+    },
+    {
+        "id": 23,
+        "rha": "Golfo Norte",
+        "anio": 2013,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 6561.7
+    },
+    {
+        "id": 24,
+        "rha": "Golfo Norte",
+        "anio": 2014,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 6466.5
+    },
+    {
+        "id": 25,
+        "rha": "Golfo Norte",
+        "anio": 2015,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 6287.4
+    },
+    {
+        "id": 26,
+        "rha": "Golfo Norte",
+        "anio": 2016,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 5946.0
+    },
+    {
+        "id": 27,
+        "rha": "Golfo Norte",
+        "anio": 2017,
+        "numero": 14.0,
+        "capnamo": 6569.3,
+        "almacenamiento": 5381.6
+    },
+    {
+        "id": 28,
+        "rha": "Golfo Norte",
+        "anio": 2018,
+        "numero": 14.0,
+        "capnamo": 6568.2,
+        "almacenamiento": 5422.4
+    },
+    {
+        "id": 29,
+        "rha": "Golfo Norte",
+        "anio": 2019,
+        "numero": 16.0,
+        "capnamo": 7249.1,
+        "almacenamiento": 4969.4
+    },
+    {
+        "id": 30,
+        "rha": "Golfo Norte",
+        "anio": 2020,
+        "numero": 16.0,
+        "capnamo": 6557.5,
+        "almacenamiento": 3576.2
+    },
+    {
+        "id": 31,
+        "rha": "Golfo Norte",
+        "anio": 2021,
+        "numero": 16.0,
+        "capnamo": 7248.5,
+        "almacenamiento": 4337.6
+    },
+    {
+        "id": 32,
+        "rha": "Golfo Norte",
+        "anio": 2022,
+        "numero": 16.0,
+        "capnamo": 7248.6,
+        "almacenamiento": 3248.4
+    },
+    {
+        "id": 33,
+        "rha": "Golfo Norte",
+        "anio": 2023,
+        "numero": 16.0,
+        "capnamo": 7278.4,
+        "almacenamiento": 2205.9
+    },
+    {
+        "id": 34,
+        "rha": "Golfo Norte",
+        "anio": 2024,
+        "numero": 16.0,
+        "capnamo": 7278.6,
+        "almacenamiento": 5900.9
+    },
+    {
+        "id": 1,
+        "rha": "Golfo Centro",
+        "anio": 1991,
+        "numero": 2.0,
+        "capnamo": 10718.6,
+        "almacenamiento": 6854.0
+    },
+    {
+        "id": 2,
+        "rha": "Golfo Centro",
+        "anio": 1992,
+        "numero": 2.0,
+        "capnamo": 10718.6,
+        "almacenamiento": 7294.7
+    },
+    {
+        "id": 3,
+        "rha": "Golfo Centro",
+        "anio": 1993,
+        "numero": 2.0,
+        "capnamo": 10718.6,
+        "almacenamiento": 6460.5
+    },
+    {
+        "id": 4,
+        "rha": "Golfo Centro",
+        "anio": 1994,
+        "numero": 2.0,
+        "capnamo": 10718.6,
+        "almacenamiento": 4563.2
+    },
+    {
+        "id": 5,
+        "rha": "Golfo Centro",
+        "anio": 1995,
+        "numero": 10.0,
+        "capnamo": 11388.8,
+        "almacenamiento": 7053.0
+    },
+    {
+        "id": 6,
+        "rha": "Golfo Centro",
+        "anio": 1996,
+        "numero": 10.0,
+        "capnamo": 11388.8,
+        "almacenamiento": 7480.9
+    },
+    {
+        "id": 7,
+        "rha": "Golfo Centro",
+        "anio": 1997,
+        "numero": 2.0,
+        "capnamo": 3092.5,
+        "almacenamiento": 2107.7
+    },
+    {
+        "id": 8,
+        "rha": "Golfo Centro",
+        "anio": 1998,
+        "numero": 7.0,
+        "capnamo": 11321.8,
+        "almacenamiento": 9428.5
+    },
+    {
+        "id": 9,
+        "rha": "Golfo Centro",
+        "anio": 1999,
+        "numero": 5.0,
+        "capnamo": 11280.8,
+        "almacenamiento": 9389.4
+    },
+    {
+        "id": 10,
+        "rha": "Golfo Centro",
+        "anio": 2000,
+        "numero": 8.0,
+        "capnamo": 10881.8,
+        "almacenamiento": 7661.9
+    },
+    {
+        "id": 11,
+        "rha": "Golfo Centro",
+        "anio": 2001,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 8868.1
+    },
+    {
+        "id": 12,
+        "rha": "Golfo Centro",
+        "anio": 2002,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 6089.5
+    },
+    {
+        "id": 13,
+        "rha": "Golfo Centro",
+        "anio": 2003,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 9764.3
+    },
+    {
+        "id": 14,
+        "rha": "Golfo Centro",
+        "anio": 2004,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 7251.4
+    },
+    {
+        "id": 15,
+        "rha": "Golfo Centro",
+        "anio": 2005,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 9109.4
+    },
+    {
+        "id": 16,
+        "rha": "Golfo Centro",
+        "anio": 2006,
+        "numero": 10.0,
+        "capnamo": 11093.7,
+        "almacenamiento": 9345.6
+    },
+    {
+        "id": 17,
+        "rha": "Golfo Centro",
+        "anio": 2007,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 7531.0
+    },
+    {
+        "id": 18,
+        "rha": "Golfo Centro",
+        "anio": 2008,
+        "numero": 10.0,
+        "capnamo": 11093.7,
+        "almacenamiento": 8964.7
+    },
+    {
+        "id": 19,
+        "rha": "Golfo Centro",
+        "anio": 2009,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 8932.4
+    },
+    {
+        "id": 20,
+        "rha": "Golfo Centro",
+        "anio": 2010,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 8872.9
+    },
+    {
+        "id": 21,
+        "rha": "Golfo Centro",
+        "anio": 2011,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 6835.1
+    },
+    {
+        "id": 22,
+        "rha": "Golfo Centro",
+        "anio": 2012,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 6906.6
+    },
+    {
+        "id": 23,
+        "rha": "Golfo Centro",
+        "anio": 2013,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 8725.0
+    },
+    {
+        "id": 24,
+        "rha": "Golfo Centro",
+        "anio": 2014,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 8279.1
+    },
+    {
+        "id": 25,
+        "rha": "Golfo Centro",
+        "anio": 2015,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 9097.4
+    },
+    {
+        "id": 26,
+        "rha": "Golfo Centro",
+        "anio": 2016,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 9061.3
+    },
+    {
+        "id": 27,
+        "rha": "Golfo Centro",
+        "anio": 2017,
+        "numero": 10.0,
+        "capnamo": 11093.4,
+        "almacenamiento": 8037.3
+    },
+    {
+        "id": 28,
+        "rha": "Golfo Centro",
+        "anio": 2018,
+        "numero": 10.0,
+        "capnamo": 11093.7,
+        "almacenamiento": 9214.7
+    },
+    {
+        "id": 29,
+        "rha": "Golfo Centro",
+        "anio": 2019,
+        "numero": 11.0,
+        "capnamo": 11800.4,
+        "almacenamiento": 8043.6
+    },
+    {
+        "id": 30,
+        "rha": "Golfo Centro",
+        "anio": 2020,
+        "numero": 11.0,
+        "capnamo": 9764.2,
+        "almacenamiento": 6290.5
+    },
+    {
+        "id": 31,
+        "rha": "Golfo Centro",
+        "anio": 2021,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 8407.4
+    },
+    {
+        "id": 32,
+        "rha": "Golfo Centro",
+        "anio": 2022,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 8582.1
+    },
+    {
+        "id": 33,
+        "rha": "Golfo Centro",
+        "anio": 2023,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 7967.1
+    },
+    {
+        "id": 34,
+        "rha": "Golfo Centro",
+        "anio": 2024,
+        "numero": 11.0,
+        "capnamo": 11391.3,
+        "almacenamiento": 9007.3
+    },
+    {
+        "id": 1,
+        "rha": "Frontera Sur",
+        "anio": 1991,
+        "numero": 4.0,
+        "capnamo": 22908.0,
+        "almacenamiento": 21302.9
+    },
+    {
+        "id": 2,
+        "rha": "Frontera Sur",
+        "anio": 1992,
+        "numero": 4.0,
+        "capnamo": 22908.0,
+        "almacenamiento": 21549.6
+    },
+    {
+        "id": 3,
+        "rha": "Frontera Sur",
+        "anio": 1993,
+        "numero": 4.0,
+        "capnamo": 22908.0,
+        "almacenamiento": 22344.4
+    },
+    {
+        "id": 4,
+        "rha": "Frontera Sur",
+        "anio": 1994,
+        "numero": 4.0,
+        "capnamo": 22908.0,
+        "almacenamiento": 17423.8
+    },
+    {
+        "id": 5,
+        "rha": "Frontera Sur",
+        "anio": 1995,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 23640.9
+    },
+    {
+        "id": 6,
+        "rha": "Frontera Sur",
+        "anio": 1996,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 22352.6
+    },
+    {
+        "id": 7,
+        "rha": "Frontera Sur",
+        "anio": 1997,
+        "numero": 1.0,
+        "capnamo": 68.2,
+        "almacenamiento": 101.2
+    },
+    {
+        "id": 8,
+        "rha": "Frontera Sur",
+        "anio": 1998,
+        "numero": 1.0,
+        "capnamo": 68.2,
+        "almacenamiento": 70.6
+    },
+    {
+        "id": 9,
+        "rha": "Frontera Sur",
+        "anio": 1999,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 25487.5
+    },
+    {
+        "id": 10,
+        "rha": "Frontera Sur",
+        "anio": 2000,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 20421.1
+    },
+    {
+        "id": 11,
+        "rha": "Frontera Sur",
+        "anio": 2001,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 14969.2
+    },
+    {
+        "id": 12,
+        "rha": "Frontera Sur",
+        "anio": 2002,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 9524.4
+    },
+    {
+        "id": 13,
+        "rha": "Frontera Sur",
+        "anio": 2003,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 17058.9
+    },
+    {
+        "id": 14,
+        "rha": "Frontera Sur",
+        "anio": 2004,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 17113.3
+    },
+    {
+        "id": 15,
+        "rha": "Frontera Sur",
+        "anio": 2005,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 23745.4
+    },
+    {
+        "id": 16,
+        "rha": "Frontera Sur",
+        "anio": 2006,
+        "numero": 5.0,
+        "capnamo": 30046.0,
+        "almacenamiento": 27152.4
+    },
+    {
+        "id": 17,
+        "rha": "Frontera Sur",
+        "anio": 2007,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 30754.4
+    },
+    {
+        "id": 18,
+        "rha": "Frontera Sur",
+        "anio": 2008,
+        "numero": 5.0,
+        "capnamo": 30046.0,
+        "almacenamiento": 28045.0
+    },
+    {
+        "id": 19,
+        "rha": "Frontera Sur",
+        "anio": 2009,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 23631.6
+    },
+    {
+        "id": 20,
+        "rha": "Frontera Sur",
+        "anio": 2010,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 27990.6
+    },
+    {
+        "id": 21,
+        "rha": "Frontera Sur",
+        "anio": 2011,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 29463.9
+    },
+    {
+        "id": 22,
+        "rha": "Frontera Sur",
+        "anio": 2012,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 21198.8
+    },
+    {
+        "id": 23,
+        "rha": "Frontera Sur",
+        "anio": 2013,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 30224.1
+    },
+    {
+        "id": 24,
+        "rha": "Frontera Sur",
+        "anio": 2014,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 28442.3
+    },
+    {
+        "id": 25,
+        "rha": "Frontera Sur",
+        "anio": 2015,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 24374.0
+    },
+    {
+        "id": 26,
+        "rha": "Frontera Sur",
+        "anio": 2016,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 22857.9
+    },
+    {
+        "id": 27,
+        "rha": "Frontera Sur",
+        "anio": 2017,
+        "numero": 5.0,
+        "capnamo": 30466.4,
+        "almacenamiento": 25888.4
+    },
+    {
+        "id": 28,
+        "rha": "Frontera Sur",
+        "anio": 2018,
+        "numero": 5.0,
+        "capnamo": 30045.9,
+        "almacenamiento": 20857.4
+    },
+    {
+        "id": 29,
+        "rha": "Frontera Sur",
+        "anio": 2019,
+        "numero": 5.0,
+        "capnamo": 29771.8,
+        "almacenamiento": 21332.5
+    },
+    {
+        "id": 30,
+        "rha": "Frontera Sur",
+        "anio": 2020,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 20464.8
+    },
+    {
+        "id": 31,
+        "rha": "Frontera Sur",
+        "anio": 2021,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 16066.7
+    },
+    {
+        "id": 32,
+        "rha": "Frontera Sur",
+        "anio": 2022,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 14422.4
+    },
+    {
+        "id": 33,
+        "rha": "Frontera Sur",
+        "anio": 2023,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 12304.6
+    },
+    {
+        "id": 34,
+        "rha": "Frontera Sur",
+        "anio": 2024,
+        "numero": 5.0,
+        "capnamo": 22976.2,
+        "almacenamiento": 13385.3
+    },
+    {
+        "id": 1,
+        "rha": "Aguas del Valle de México",
+        "anio": 1991,
+        "numero": 6.0,
+        "capnamo": 409.2,
+        "almacenamiento": 348.9
+    },
+    {
+        "id": 2,
+        "rha": "Aguas del Valle de México",
+        "anio": 1992,
+        "numero": 5.0,
+        "capnamo": 320.2,
+        "almacenamiento": 329.5
+    },
+    {
+        "id": 3,
+        "rha": "Aguas del Valle de México",
+        "anio": 1993,
+        "numero": 8.0,
+        "capnamo": 500.8,
+        "almacenamiento": 336.0
+    },
+    {
+        "id": 4,
+        "rha": "Aguas del Valle de México",
+        "anio": 1994,
+        "numero": 8.0,
+        "capnamo": 500.8,
+        "almacenamiento": 392.1
+    },
+    {
+        "id": 5,
+        "rha": "Aguas del Valle de México",
+        "anio": 1995,
+        "numero": 10.0,
+        "capnamo": 548.7,
+        "almacenamiento": 405.2
+    },
+    {
+        "id": 6,
+        "rha": "Aguas del Valle de México",
+        "anio": 1996,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 444.2
+    },
+    {
+        "id": 7,
+        "rha": "Aguas del Valle de México",
+        "anio": 1997,
+        "numero": 6.0,
+        "capnamo": 238.4,
+        "almacenamiento": 85.2
+    },
+    {
+        "id": 8,
+        "rha": "Aguas del Valle de México",
+        "anio": 1998,
+        "numero": 8.0,
+        "capnamo": 315.7,
+        "almacenamiento": 255.3
+    },
+    {
+        "id": 9,
+        "rha": "Aguas del Valle de México",
+        "anio": 1999,
+        "numero": 7.0,
+        "capnamo": 173.9,
+        "almacenamiento": 162.1
+    },
+    {
+        "id": 10,
+        "rha": "Aguas del Valle de México",
+        "anio": 2000,
+        "numero": 5.0,
+        "capnamo": 312.9,
+        "almacenamiento": 285.8
+    },
+    {
+        "id": 11,
+        "rha": "Aguas del Valle de México",
+        "anio": 2001,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 481.4
+    },
+    {
+        "id": 12,
+        "rha": "Aguas del Valle de México",
+        "anio": 2002,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 539.2
+    },
+    {
+        "id": 13,
+        "rha": "Aguas del Valle de México",
+        "anio": 2003,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 547.2
+    },
+    {
+        "id": 14,
+        "rha": "Aguas del Valle de México",
+        "anio": 2004,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 551.7
+    },
+    {
+        "id": 15,
+        "rha": "Aguas del Valle de México",
+        "anio": 2005,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 469.5
+    },
+    {
+        "id": 16,
+        "rha": "Aguas del Valle de México",
+        "anio": 2006,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 511.0
+    },
+    {
+        "id": 17,
+        "rha": "Aguas del Valle de México",
+        "anio": 2007,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 538.4
+    },
+    {
+        "id": 18,
+        "rha": "Aguas del Valle de México",
+        "anio": 2008,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 533.6
+    },
+    {
+        "id": 19,
+        "rha": "Aguas del Valle de México",
+        "anio": 2009,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 513.8
+    },
+    {
+        "id": 20,
+        "rha": "Aguas del Valle de México",
+        "anio": 2010,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 442.8
+    },
+    {
+        "id": 21,
+        "rha": "Aguas del Valle de México",
+        "anio": 2011,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 481.1
+    },
+    {
+        "id": 22,
+        "rha": "Aguas del Valle de México",
+        "anio": 2012,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 435.9
+    },
+    {
+        "id": 23,
+        "rha": "Aguas del Valle de México",
+        "anio": 2013,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 500.6
+    },
+    {
+        "id": 24,
+        "rha": "Aguas del Valle de México",
+        "anio": 2014,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 522.8
+    },
+    {
+        "id": 25,
+        "rha": "Aguas del Valle de México",
+        "anio": 2015,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 511.9
+    },
+    {
+        "id": 26,
+        "rha": "Aguas del Valle de México",
+        "anio": 2016,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 529.4
+    },
+    {
+        "id": 27,
+        "rha": "Aguas del Valle de México",
+        "anio": 2017,
+        "numero": 12.0,
+        "capnamo": 600.1,
+        "almacenamiento": 496.6
+    },
+    {
+        "id": 28,
+        "rha": "Aguas del Valle de México",
+        "anio": 2018,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 521.7
+    },
+    {
+        "id": 29,
+        "rha": "Aguas del Valle de México",
+        "anio": 2019,
+        "numero": 12.0,
+        "capnamo": 588.0,
+        "almacenamiento": 394.2
+    },
+    {
+        "id": 30,
+        "rha": "Aguas del Valle de México",
+        "anio": 2020,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 336.2
+    },
+    {
+        "id": 31,
+        "rha": "Aguas del Valle de México",
+        "anio": 2021,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 516.2
+    },
+    {
+        "id": 32,
+        "rha": "Aguas del Valle de México",
+        "anio": 2022,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 367.7
+    },
+    {
+        "id": 33,
+        "rha": "Aguas del Valle de México",
+        "anio": 2023,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 326.5
+    },
+    {
+        "id": 34,
+        "rha": "Aguas del Valle de México",
+        "anio": 2024,
+        "numero": 12.0,
+        "capnamo": 587.4,
+        "almacenamiento": 483.7
+    }
+]
